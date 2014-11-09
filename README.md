@@ -14,7 +14,8 @@
 	smtp_server = 'smtp.gmail.com'
 	smtp_port = '587'
 	
-  根据发送邮箱，配置邮件服务器的信息
+  根据发送邮箱，配置邮件服务器的信息   
+  
 2，指定查询的关键字  
 
 	key = ‘ipad’
